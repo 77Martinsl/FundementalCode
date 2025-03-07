@@ -5,8 +5,8 @@ Within this github I am storing examples of all these algorithms in pyhton as a 
 ## 1. Sorting Algorithms
 
 - **Bubble Sort**: Simple but inefficient for large datasets.
--**Merge Sort**: Efficient and uses a divide-and-conquer approach.
--**Quick Sort**:Faster in practice but can be less stable.
+- **Merge Sort**: Efficient and uses a divide-and-conquer approach.
+- **Quick Sort**:Faster in practice but can be less stable.
 - **Insertion Sort**: Great for small or nearly sorted datasets.
 - **Heap Sort**: Uses a binary heap data structure.
 
